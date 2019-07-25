@@ -1,1 +1,2 @@
 belajar membuat web melalui github
+memasukan folder ke github
