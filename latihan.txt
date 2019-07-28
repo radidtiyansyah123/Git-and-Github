@@ -1,2 +1,3 @@
 belajar membuat web melalui github
 memasukan folder ke github
+belajar memahami branch and marge
