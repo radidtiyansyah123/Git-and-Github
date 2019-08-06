@@ -1,8 +1,15 @@
+
 Apa itu Git dan Github??
 
 Git adalah bagian dari Version Control System
 "Verion Control System, disebut juga revision control system atau source code managemnet adalah sistem yang mengelola perubahan dari sebuah dokumen, program komputer, website dan kumpulan informasi lain."
 
 GitHub adalah layanan penginangan web bersama untuk proyek pengembangan perangkat lunak yang menggunakan sistem pengontrol versi Git dan layanan hosting internet. Hal ini banyak digunakan untuk kode komputer
+
+Branch = jalur 'development' bebas dari sebuah commit
+Checkout = berpindah ke branch/commit yang lain
+Pull Request = meminta pemilik repo untuk 'mengambil'perubahan yang telah dilakukan
+Marge = menggabungkan 2 branch
+Merge Conflict = baris yang sama diubah oleh 2 branch yang berbeda
 
 
