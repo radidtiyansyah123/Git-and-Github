@@ -11,5 +11,10 @@ Checkout = berpindah ke branch/commit yang lain
 Pull Request = meminta pemilik repo untuk 'mengambil'perubahan yang telah dilakukan
 Marge = menggabungkan 2 branch
 Merge Conflict = baris yang sama diubah oleh 2 branch yang berbeda
+Fork/Forking = -Membuat 'copy/duplikat' dari repo orang lain(berserta historynya).
+-Jembatan antara repo original dan duplikatnya.
+-Modifikasi terhadap repo original.
+-Berkontribusi terhadap repo orang lain.
+-Fork! = Clone.
 
 
